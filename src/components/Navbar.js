@@ -1,5 +1,5 @@
-import logo from '../logo_3.png';
-import fullLogo from '../full_logo.png';
+import logo from '../assets/logo_3.png';
+import fullLogo from '../assets/full_logo.png';
 import {
   BrowserRouter as Router,
   Switch,
