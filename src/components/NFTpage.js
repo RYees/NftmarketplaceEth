@@ -91,7 +91,7 @@ async function buyNFT(tokenId) {
                     </div>
                     <div>
                         Seller: <span className="text-sm">{data.seller}</span>
-                    </div>
+                    </div>~
                     <div>
                         currAddress: <span className="text-sm">{currAddress}</span>
                     </div>
